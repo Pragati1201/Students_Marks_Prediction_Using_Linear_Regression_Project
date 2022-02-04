@@ -1,4 +1,4 @@
-Students Marks Prediction Using Linear Regression
+
 Technology/Hardware & Software Coding Language : Python, Dataset : Students marks dataset, IDE : Jupiter notebook
 
 The system aims to predict student's marks using linear regression. The idea behind this analysis is to predict the marks of students by their studying hours. Through this project we can determine:How many hours need to do the study to get 99% marks or to pass the exam. If I will do study 5 hours per day so how much marks I will get. Through these points the school or College can determine the performance of the students. 
